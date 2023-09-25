@@ -7,7 +7,7 @@ Web sitesinde turlar ve görsellerine yer verdim.
 E-mail adresi ile kontak kurabilmek için buton tasarladım.
 Kampanyalar ve randevu al bölümleri ekledim.
 
-<h1> Kullandığım Projeler </h1>
+<h1> Kullandığım Teknolojiler </h1>
 HTML5 ve CSS3 kodları ile tasarım yaptım.
 
 ![](ezgif.com-video-to-gif.gif)
